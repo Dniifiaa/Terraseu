@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "info": "Informasi",
+    "tourism": "Wisata",
+    "catalog": "Katalog",
+    "news": "Berita",
+    "login": "Login Admin",
+    "tagline": "Aplikasi Pusat Informasi Ekowisata"
+  },
+  "hero": {
+    "badge": "🌿 PLATFORM EKOWISATA TERRASEU",
+    "title1": "TERRASEU",
+    "title2": "DISCOVER THE HEART OF GUNUNG KIDUL",
+    "subtitle": "Jelajahi keajaiban ekowisata karst, pantai pasir putih eksotis, dan warisan kebudayaan yang memikat di Gunung Kidul, Yogyakarta.",
+    "exploreBtn": "Mulai Jelajah",
+    "emergencyBtn": "Layanan Darurat",
+    "featuredBadge": "Rekomendasi Utama"
+  },
+  "info": {
+    "geoparkDesc": "Kabupaten Gunung Kidul merupakan salah satu kabupaten di Daerah Istimewa Yogyakarta yang terkenal dalam kawasan Gunung Sewu UNESCO Global Geopark, yaitu kawasan warisan geologi dunia yang diakui oleh UNESCO.",
+    "visionTitle": "Visi",
+    "visionDesc": "Menjadi destinasi ekowisata unggulan di Gunung Kidulyang mengedepankan pelestarian alam, edukasi, dan pemberdayaan masyarakat.",
+    "missionTitle": "Misi",
+    "missionDesc": "Melestarikan lingkungan, mengedukasi masyarakat melalui pariwisata, memberikan pelayanan wisata yang aman, nyaman, dan berkelanjutan.",
+    "karstTitle": "Mengenal Bumi Karst Gunung Kidul",
+    "karstBadge": "Gunung Kidul Handayani",
+    "karstDesc": "Terkenal dengan julukan Gunung Kidul Handayani, wilayah ini menyimpan pesona kekayaan alam karst purba, ratusan pantai pasir putih eksotis, hingga kebudayaan lokal yang terus dirawat. Terraseu hadir untuk memandu perjalananmu menjelajahi keajaiban Geopark ini secara ramah lingkungan."
+  },
+  "wisata": {
+    "bannerTitle": "Rencanakan Petualanganmu di Gunung Kidul",
+    "hitsTitle": "Destinasi Wisata Hits",
+    "hitsSub": "Rekomendasi",
+    "kulinerTitle": "Kuliner Khas",
+    "kulinerSub": "Rekomendasi Cita Rasa Lokal",
+    "akomodasiTitle": "Akomodasi",
+    "akomodasiSub": "Rekomendasi Fasilitas Bagus & Nyaman"
+  },
+  "katalog": {
+    "title": "Katalog Ekowisata",
+    "subtitle": "Komunitas dan Agenda Kebudayaan Lokal",
+    "tabOrganisasi": "Organisasi & Komunitas",
+    "tabEvent": "Event Kebudayaan",
+    "orgTitle": "Organisasi & Komunitas Ekowisata",
+    "orgSub": "Penggerak Pelestarian Lingkungan & Kebudayaan",
+    "eventTitle": "Event & Upacara Adat Lokal",
+    "eventSub": "Agenda Kebudayaan Tahunan Gunung Kidul",
+    "openMaps": "Buka Google Maps"
+  },
+  "emergency": {
+    "badge": "PUSAT BANTUAN & KONTAK DARURAT 24 JAM",
+    "title": "Informasi Layanan Darurat & Bantuan Wisatawan",
+    "desc": "Tim siaga 24 jam siap memberikan pertolongan pertama, penyelamatan pantai (SAR), medis, dan bantuan kepolisian di kawasan Gunung Kidul.",
+    "btn": "HUBUNGI EMERGENCY CALL",
+    "modalTitle": "Nomor Kontak Darurat Gunung Kidul",
+    "modalDesc": "Silakan hubungi nomor layanan darurat berikut untuk pertolongan medis, SAR, atau bantuan kepolisian."
+  },
+  "footer": {
+    "desc": "Platform resmi ekowisata dan pelestarian warisan kebudayaan Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak & Lokasi",
+    "rights": "Hak Cipta Dilindungi Undang-Undang."
+  },
+  "modal": {
+    "loginTitle": "Filament Admin Login",
+    "loginDesc": "Masuk ke Panel Pengelola Platform TERRASEU",
+    "close": "Tutup",
+    "emergencyTitle": "Nomor Kontak Darurat Gunung Kidul",
+    "emergencyDesc": "Silakan hubungi nomor layanan darurat berikut untuk pertolongan medis, SAR, atau bencana alam."
+  }
+}

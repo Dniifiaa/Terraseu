@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "info": "Information",
+    "tourism": "Tourism",
+    "catalog": "Catalog",
+    "news": "News",
+    "login": "Admin Login",
+    "tagline": "Ecotourism Information Center"
+  },
+  "hero": {
+    "badge": "🌿 TERRASEU ECOTOURISM PLATFORM",
+    "title1": "TERRASEU",
+    "title2": "DISCOVER THE HEART OF GUNUNG KIDUL",
+    "subtitle": "Explore the wonders of karst ecotourism, exotic white-sand beaches, and captivating cultural heritage in Gunung Kidul, Yogyakarta.",
+    "exploreBtn": "Start Exploring",
+    "emergencyBtn": "Emergency Hotline",
+    "featuredBadge": "Top Recommendations"
+  },
+  "info": {
+    "geoparkDesc": "Gunung Kidul Regency is one of the regencies in the Special Region of Yogyakarta, famous for being part of the Gunung Sewu UNESCO Global Geopark, a UNESCO-recognized global geological heritage area.",
+    "visionTitle": "Vision",
+    "visionDesc": "To become a leading ecotourism destination in Gunung Kidul prioritizing nature conservation, education, and community empowerment.",
+    "missionTitle": "Mission",
+    "missionDesc": "To preserve the environment, educate society through tourism, and provide safe, comfortable, and sustainable travel services.",
+    "karstTitle": "Exploring Gunung Kidul Karst Landscape",
+    "karstBadge": "Gunung Kidul Handayani",
+    "karstDesc": "Known as 'Gunung Kidul Handayani', this region harbors ancient karst formations, hundreds of exotic white-sand beaches, and rich local traditions. TERRASEU guides your journey to explore this Geopark sustainably."
+  },
+  "wisata": {
+    "bannerTitle": "Plan Your Adventure in Gunung Kidul",
+    "hitsTitle": "Popular Tourist Spots",
+    "hitsSub": "Top Recommendations",
+    "kulinerTitle": "Local Cuisine",
+    "kulinerSub": "Authentic Local Flavors",
+    "akomodasiTitle": "Accommodations",
+    "akomodasiSub": "Recommended Stays & Resorts"
+  },
+  "katalog": {
+    "title": "Ecotourism Catalog",
+    "subtitle": "Local Communities & Cultural Agenda",
+    "tabOrganisasi": "Organizations & Communities",
+    "tabEvent": "Cultural Events",
+    "orgTitle": "Ecotourism Organizations",
+    "orgSub": "Pioneers of Environmental & Cultural Preservation",
+    "eventTitle": "Events & Local Traditions",
+    "eventSub": "Annual Cultural Calendar of Gunung Kidul",
+    "openMaps": "Open Google Maps"
+  },
+  "emergency": {
+    "badge": "24/7 EMERGENCY ASSISTANCE CENTER",
+    "title": "Emergency Services & Tourist Support Info",
+    "desc": "24-hour standby team ready for first aid, beach rescue (SAR), medical, and police support in Gunung Kidul.",
+    "btn": "CALL EMERGENCY HOTLINE",
+    "modalTitle": "Gunung Kidul Emergency Hotline Numbers",
+    "modalDesc": "Contact the emergency numbers below for medical aid, SAR rescue, or police assistance."
+  },
+  "footer": {
+    "desc": "Official platform for ecotourism and cultural heritage preservation in Gunung Kidul Regency, Special Region of Yogyakarta.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact & Location",
+    "rights": "All Rights Reserved."
+  },
+  "modal": {
+    "loginTitle": "Filament Admin Login",
+    "loginDesc": "Access the TERRASEU Platform Management Panel",
+    "close": "Close",
+    "emergencyTitle": "Gunung Kidul Emergency Numbers",
+    "emergencyDesc": "Please contact the emergency numbers below for medical aid, SAR, or disaster assistance."
+  }
+}
