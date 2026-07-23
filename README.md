@@ -72,21 +72,26 @@ Aplikasi ini mengombinasikan tampilan **Front End publik** yang atraktif dan res
 
 ## 4. 🖼️ Screenshot Aplikasi
 
-### 1. Dashboard Front End (Halaman Utama / Hero Showcase)
-![Front End Dashboard](/images/heha-sky-view.jpg)
-*Tampilan Beranda Utama TERRASEU dengan Hero Banner, Floating Cards, dan Navigasi Multi-Bahasa.*
+### 1. Tampilan Website
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004339" src="https://github.com/user-attachments/assets/ce37f798-96d9-444f-aff2-328b72508c50" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004343" src="https://github.com/user-attachments/assets/fff89ab9-bb19-4cfb-a02c-f758100539fb" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004349" src="https://github.com/user-attachments/assets/f3364271-3497-4a6d-a529-672aa42da66d" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004357" src="https://github.com/user-attachments/assets/0f9a7ac6-8fef-4dc3-b7cc-fdbdfedf3d06" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004403" src="https://github.com/user-attachments/assets/bce9c296-5f56-4f54-a185-b6adb944df29" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004410" src="https://github.com/user-attachments/assets/1987f5fa-b2d3-477c-b8c7-05f2e0747858" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004412" src="https://github.com/user-attachments/assets/f136f978-94dd-4456-80bd-b947a2252719" />
 
 ---
 
-### 2. Halaman Katalog & Informasi Kebudayaan
-![Katalog Kebudayaan](/images/tugu-gunungkidul.jpg)
-*Tampilan Katalog Geopark, Organisasi Ekowisata, dan Event Kebudayaan Gunungkidul.*
+### 2. Admin Panel CMS
 
----
-
-### 3. Halaman Detail Destinasi & Edukasi Karst
-![Detail Destinasi](/images/goa-jomblang.jpg)
-*Tampilan Informasi Eksplorasi Wisata Alam, Goa Jomblang, dan Pesona Karst Gunungkidul.*
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004656" src="https://github.com/user-attachments/assets/c8d51600-8a85-4c5a-a96f-d568a3d07f85" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004659" src="https://github.com/user-attachments/assets/d33f95fc-02f2-4c1c-9c75-8883311a71f9" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004702" src="https://github.com/user-attachments/assets/257fa712-cc80-40c3-84a0-eb5c3e4497b3" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004704" src="https://github.com/user-attachments/assets/329bbae8-2950-4409-a049-8e7ed403ba79" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004707" src="https://github.com/user-attachments/assets/5e332e28-b9e5-4d13-98d1-ab56859ca0f6" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004710" src="https://github.com/user-attachments/assets/8e7ac13b-5f25-4ba0-ad67-72e65a5804bc" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-07-24 004712" src="https://github.com/user-attachments/assets/77d51daf-0041-4b14-821f-26642582b495" />
 
 ---
 
@@ -94,8 +99,7 @@ Aplikasi ini mengombinasikan tampilan **Front End publik** yang atraktif dan res
 
 Aplikasi TERRASEU telah di-host dan dapat diakses secara langsung melalui tautan berikut:
 
-* 🌐 **Live Demo App**: [https://ais-pre-owt7ydfybo7ctppqjhkjnw-811820970466.asia-southeast1.run.app](https://ais-pre-owt7ydfybo7ctppqjhkjnw-811820970466.asia-southeast1.run.app)
-* ⚡ **Development Preview**: [https://ais-dev-owt7ydfybo7ctppqjhkjnw-811820970466.asia-southeast1.run.app](https://ais-dev-owt7ydfybo7ctppqjhkjnw-811820970466.asia-southeast1.run.app)
+* 🌐 **Live Demo App**: [Terraseu](https://terraseu.ai.studio)
 
 ---
 
@@ -103,9 +107,12 @@ Aplikasi TERRASEU telah di-host dan dapat diakses secara langsung melalui tautan
 
 * **Nama Tim / Kelompok**: Tim Terraseu Gunungkidul
 * **Anggota Tim**:
-  1. **Valerian Ahmad** — NIM: [Silahkan Isi NIM Anda]
-  2. **[Nama Anggota 2]** — NIM: [Silahkan Isi NIM Anggota 2]
-  3. **[Nama Anggota 3]** — NIM: [Silahkan Isi NIM Anggota 3]
+  1. **Dini Afiatus Sholeha** — NIM: 24030028
+  2. **Naufal Khoirudin Latif** — NIM: 24030005
+  3. **Natalie Caesa Eka Putri** — NIM: 24030022
+  4. **Aryda Sulistianni** — NIM: 24030026
+  5. **Ibrahim Daud** — NIM: 24030012
+
 
 ---
 *© 2026 TERRASEU — Discover the Heart of Gunungkidul. All rights reserved.*
